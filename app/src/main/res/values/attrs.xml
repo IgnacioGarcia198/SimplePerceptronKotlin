@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PerceptronGuessView">
+        <attr name="negativeGuess" format="color" />
+        <attr name="positiveGuess" format="color" />
+        <attr name="extraBackgroundColor" format="color" />
+        <attr name="lineColor" format="color" />
+    </declare-styleable>
+</resources>
